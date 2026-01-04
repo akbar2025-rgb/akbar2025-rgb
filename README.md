@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Akbar!
+<h1>👋 Hi, I'm Akbar!</h1>
 I am an Information Systems student at the State Islamic University of North Sumatra (UINSU) with a strong passion for web and mobile application development. I focus on building efficient and well-structured digital solutions.<br>
 
 ## 🔭 Education & Current Focus
