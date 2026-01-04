@@ -3,17 +3,17 @@ I am an Information Systems student at the State Islamic University of North Sum
 
 ## 🔭 Education & Current Focus
 - Education: Information Systems Student, Faculty of Science and Technology, State Islamic University of North Sumatra, Medan.<br>
-• Development Focus: Currently actively developing Web applications with the MVC architectural pattern using the Laravel Framework.<br>
+- Development Focus: Currently actively developing Web applications with the MVC architectural pattern using the Laravel Framework.<br>
 
 ## 🌱 Currently Learning & Future Goals
-• Currently Learning: Deepening knowledge of scalable web architecture and database management.<br>
-• Future Goals: Mastering Mobile Application development using Android Studio and exploring interactive/game development through Unity.<br>
+- Currently Learning: Deepening knowledge of scalable web architecture and database management.<br>
+- Future Goals: Mastering Mobile Application development using Android Studio and exploring interactive/game development through Unity.<br>
 
 ## 🤝 Open To:
-• Collaborative Web development projects (Laravel/MVC).<br>
-• Student research projects in the field of Information Systems.<br>
-• Internship or freelance opportunities for Web Developer positions.<br>
-• Discussions about the latest technologies in the PHP and Android ecosystems.<br>
+- Collaborative Web development projects (Laravel/MVC).<br>
+- Student research projects in the field of Information Systems.<br>
+- Internship or freelance opportunities for Web Developer positions.<br>
+- Discussions about the latest technologies in the PHP and Android ecosystems.<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akbar2025-rgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
