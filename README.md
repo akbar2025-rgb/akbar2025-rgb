@@ -46,7 +46,7 @@
 
 ---
 
-<img src="coding-freak.gif">
+<img src="coding-freak.gif" alt="Welcome GIF" style="max-width: 100%; height: auto; margin-top: 10px;">
 
 [![](https://visitcount.itsvg.in/api?id=akbar2025-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
