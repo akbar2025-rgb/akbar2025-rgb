@@ -1,9 +1,11 @@
 <div align="center">
 # 👋 Hi, I'm Akbar!
+</div>
+
 **I am an Information Systems student at the State Islamic University of North Sumatra Medan (UINSU MEDAN) with a strong passion for web and mobile application development. I focus on building efficient and well-structured digital solutions.**
 
 ---
-</div>
+
 
 ## 🔭 Education & Current Focus
 - Education: Information Systems Student, Faculty of Science and Technology, State Islamic University of North Sumatra, Medan.<br>
