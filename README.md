@@ -17,7 +17,7 @@ I am an Information Systems student at the State Islamic University of North Sum
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akbar2025-rgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akbar2025-rgb&theme=dark&hide_border=false)<br/>
+![](nirzak-streak-stats_vercel_default.svg)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akbar2025-rgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
