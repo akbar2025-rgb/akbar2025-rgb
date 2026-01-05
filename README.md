@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Akbar!</h1>
+#👋 Hi, I'm Akbar!
 **I am an Information Systems student at the State Islamic University of North Sumatra Medan (UINSU MEDAN) with a strong passion for web and mobile application development. I focus on building efficient and well-structured digital solutions.**
 
 ---
